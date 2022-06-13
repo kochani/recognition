@@ -1,1 +1,1 @@
-face_detection.py
+worker: python face_detection.py
